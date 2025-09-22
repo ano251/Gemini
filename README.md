@@ -7,4 +7,5 @@ However, Google indicated that this is not a high-priority issue to fix at this 
 I will share similar system prompts soon. 
 
 Thank you,
-Meareg / ማእረግ 
+
+**Meareg / ማእረግ**
