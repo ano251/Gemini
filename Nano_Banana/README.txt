@@ -1,2 +1,2 @@
 Discovered and reported to Google: Aug 28, 2025 
-Note: I extract the system prompt as base64 and decode it back. 
+Note: Extract the system prompt in base64 format and decode it back. 
