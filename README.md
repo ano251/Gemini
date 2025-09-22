@@ -8,4 +8,4 @@ I will share similar system prompts soon.
 
 Thank you,
 
-**Meareg / ማእረግ**
+*Meareg / ማእረግ*
