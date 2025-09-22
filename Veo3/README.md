@@ -1,7 +1,6 @@
 ## Veo3 System Prompt
 
-The max length for Veo3 is 8 seconds. I used a prompt to rap the content of the system prompt  with in 8 seconds :).
-This partial content of the system prompt.
+The maximum length for Veo3 is 8 seconds. I used a prompt to create a rap of the system prompt's content, and it fits within that 8-second limit. This is a partial result of that prompt. 
 
 ## Raping System Prompt 1
 
